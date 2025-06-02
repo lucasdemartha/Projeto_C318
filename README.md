@@ -89,6 +89,6 @@ jupyter notebook lol_10min_predicao.ipynb
 
 ## 👨‍💻 Autores
 
-Lucas de Martha [Github](https://github.com/lucasdemartha)
-Nicholas Siecola [Github](https://github.com/NSiecola)
+- Lucas de Martha [Github](https://github.com/lucasdemartha)
+- Nicholas Siecola [Github](https://github.com/NSiecola)
 
